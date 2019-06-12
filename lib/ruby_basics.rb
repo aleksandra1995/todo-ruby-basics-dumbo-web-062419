@@ -23,5 +23,5 @@ return "expert"
 end
 
 def pizza_party(som)
-return "#{som}"
+return pizza_party
 end
